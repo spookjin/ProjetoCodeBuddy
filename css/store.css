@@ -1,0 +1,93 @@
+*{
+    margin:2px;
+    float:10%;
+    padding: 0;}
+   
+   body{
+    background-color:#8000ff;}
+   
+   
+   .logo{
+    height: 90px;
+    margin-left: 2%;}
+   
+   .faxa{
+    background-color: black;
+    height: 100px;
+    width: 90%;
+    margin-left: 1%;
+    border-radius: 10px 10px;
+    margin-top: 1%;
+    position: relative; }
+   
+   .menu li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: aliceblue;
+    font-size: 11px;
+    top: 30%;
+    left: 60%;}
+   
+   .btn1{
+    list-style: none;
+    position: absolute;
+    top:30px;
+    left:60%;}
+   
+   .btn2{
+    list-style: none;
+    position: absolute;
+    top:30px;
+    left:90%;}
+   
+   .btn3{
+    list-style: none;
+    position: absolute;
+    top:30px;
+    left:80%;}
+   
+   .btn4{
+    list-style: none;
+    position: absolute;
+    top:30px;
+    left:70%;}
+   
+   .btn a:hover{
+    color:#8000ff;
+    transition: .5s;
+    font-size: 12px;}
+   
+   .sla{
+    background-color: black;
+    height: 700px;
+    width: 15%;
+    margin-left: 16px;
+    border-radius: 10px;
+    margin-top: 25px;}
+   
+   .btn5{
+   list-style: none;
+   text-decoration: none;
+   text-transform: uppercase;
+   color: aliceblue;
+   font-size: 16px;
+   margin-left:2%;
+   margin-top:1%;
+   position:absolute;}
+   
+   .sub li:hover{
+   color:#8000ff;
+   transition: .5s;
+   font-size: 12px;}
+   
+   .meio{
+   background-color: black;
+   height: 77%;
+   width: 69%;
+   transform: translate(30%,-100%);
+   border-radius: 10px;
+   position:absolute;}
+   
+   .musicas{
+   margin-top: 3%;}
+   
