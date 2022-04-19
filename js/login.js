@@ -6,7 +6,7 @@ let Login = {
         Login.Username = document.getElementById("Username").value;
         Login.Password = document.getElementById("Password").value;
         if(Login.Username==="diego" && Login.Password==="popo"){
-            window.location.href="sup.html"
+            window.location.href="index.html"
         }
         console.log(Login)
     }
